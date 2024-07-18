@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ReetuMT]()https://github.com/ReetuMT
+- 👨‍💻 All of my projects are available at [https://github.com/ReetuMT]
 
 - 📫 How to reach me **ritreetu642@gmail.com**
 
